@@ -1,0 +1,6 @@
+body{
+    background-color: black;
+    margin: 0;
+    height: 100vh;
+    cursor: url('../TEST/cursor/Rectangle12.png'), auto;
+}
